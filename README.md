@@ -1,1 +1,1 @@
-# ClassProject
+# BudgetBuddy
